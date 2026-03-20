@@ -117,7 +117,7 @@ Once your PR merges to `main`, the publish workflow runs automatically:
 5. The releases branch README is regenerated
 6. Up to 10 versioned ZIPs are retained; older ones are pruned
 
-Everything is pushed to the [`releases` branch](https://github.com/sethwv/sample-plugin-repo/tree/releases).
+Everything is pushed to the [`releases` branch](https://github.com/Dispatcharr/Plugins/tree/releases).
 
 ## Versioning
 

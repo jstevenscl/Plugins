@@ -8,14 +8,14 @@ A repository for publishing and distributing Dispatcharr Python plugins with aut
 
 | Resource | Description |
 |----------|-------------|
-| [Browse Plugins](https://github.com/sethwv/sample-plugin-repo/tree/releases) | All available plugins on the releases branch |
-| [Plugin Manifest](https://raw.githubusercontent.com/sethwv/sample-plugin-repo/releases/manifest.json) | Plugin metadata, checksums, and download URLs |
-| [Download Releases](https://github.com/sethwv/sample-plugin-repo/tree/releases/releases) | Plugin ZIP files |
-| [View Metadata](https://github.com/sethwv/sample-plugin-repo/tree/releases/metadata) | Version metadata with commit info and checksums |
+| [Browse Plugins](https://github.com/Dispatcharr/Plugins/tree/releases) | All available plugins on the releases branch |
+| [Plugin Manifest](https://raw.githubusercontent.com/Dispatcharr/Plugins/releases/manifest.json) | Plugin metadata, checksums, and download URLs |
+| [Download Releases](https://github.com/Dispatcharr/Plugins/tree/releases/releases) | Plugin ZIP files |
+| [View Metadata](https://github.com/Dispatcharr/Plugins/tree/releases/metadata) | Version metadata with commit info and checksums |
 
 ## How It Works
 
-Each plugin lives in `plugins/<plugin-name>/` and must contain a valid `plugin.json`. When a PR is merged to `main`, plugins are automatically packaged and published to the [`releases` branch](https://github.com/sethwv/sample-plugin-repo/tree/releases).
+Each plugin lives in `plugins/<plugin-name>/` and must contain a valid `plugin.json`. When a PR is merged to `main`, plugins are automatically packaged and published to the [`releases` branch](https://github.com/Dispatcharr/Plugins/tree/releases).
 
 ### PR Validation
 
@@ -47,8 +47,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide, including the `plugin
 
 ## Downloading Plugins
 
-Visit the [releases branch](https://github.com/sethwv/sample-plugin-repo/tree/releases) to browse and download plugins, or fetch `manifest.json` programmatically:
+Visit the [releases branch](https://github.com/Dispatcharr/Plugins/tree/releases) to browse and download plugins, or fetch `manifest.json` programmatically:
 
 ```bash
-curl https://raw.githubusercontent.com/sethwv/sample-plugin-repo/releases/manifest.json
+curl https://raw.githubusercontent.com/Dispatcharr/Plugins/releases/manifest.json
 ```
