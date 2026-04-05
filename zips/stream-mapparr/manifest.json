@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-04-05T21:34:29Z",
+  "manifest": {
+    "name": "Stream-Mapparr",
+    "description": "Automatically add matching streams to channels based on name similarity and quality precedence. Supports unlimited stream matching, channel visibility management, and CSV export cleanup.",
+    "author": "PiratesIRC",
+    "license": "MIT",
+    "repo_url": "https://github.com/PiratesIRC/Stream-Mapparr",
+    "slug": "stream-mapparr",
+    "registry_url": "https://github.com/Dispatcharr/Plugins",
+    "registry_name": "Dispatcharr/Plugins",
+    "versions": [
+      {
+        "version": "0.9.0",
+        "commit_sha": "f42e889c2c1192cc5982cb2d98236a4130402d81",
+        "commit_sha_short": "f42e889",
+        "build_timestamp": "2026-04-05T21:34:29Z",
+        "last_updated": "2026-04-05T17:34:17-04:00",
+        "checksum_md5": "c3b1a7d8db02ea9416f2cc97d8c05479",
+        "checksum_sha256": "be311ee92aacc4e45b680cdf08ab66bd0d0a62faf0af41465ef546dff98f63b2",
+        "min_dispatcharr_version": "v0.20.0",
+        "url": "zips/stream-mapparr/stream-mapparr-0.9.0.zip"
+      }
+    ],
+    "last_updated": "2026-04-05T17:34:17-04:00",
+    "latest": {
+      "version": "0.9.0",
+      "commit_sha": "f42e889c2c1192cc5982cb2d98236a4130402d81",
+      "commit_sha_short": "f42e889",
+      "build_timestamp": "2026-04-05T21:34:29Z",
+      "last_updated": "2026-04-05T17:34:17-04:00",
+      "checksum_md5": "c3b1a7d8db02ea9416f2cc97d8c05479",
+      "checksum_sha256": "be311ee92aacc4e45b680cdf08ab66bd0d0a62faf0af41465ef546dff98f63b2",
+      "min_dispatcharr_version": "v0.20.0",
+      "latest_url": "zips/stream-mapparr/stream-mapparr-latest.zip",
+      "url": "zips/stream-mapparr/stream-mapparr-0.9.0.zip"
+    }
+  },
+  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCadLVZgAKCRB+wDprTCI0\nzgmRAP98DJgTR0gkjX9syr3/3N89ErIGguWF7EQcrKFLiK775gD8CTKMUif3lJXp\n3KuHPmnKcULZg2T3XSttGdtZMByuNwc=\n=B6m+\n-----END PGP SIGNATURE-----"
+}
