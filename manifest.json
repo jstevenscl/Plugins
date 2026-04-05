@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T21:33:25Z",
+  "generated_at": "2026-04-05T21:33:48Z",
   "manifest": {
     "registry_url": "https://github.com/Dispatcharr/Plugins",
     "registry_name": "Dispatcharr/Plugins",
@@ -48,6 +48,20 @@
         "min_dispatcharr_version": "v0.20.0"
       },
       {
+        "slug": "iptv-checker",
+        "name": "IPTV Checker",
+        "description": "A Dispatcharr Plugin that goes through a playlist to check IPTV channels",
+        "manifest_url": "zips/iptv-checker/manifest.json",
+        "author": "PiratesIRC",
+        "license": "MIT",
+        "last_updated": "2026-04-05T17:33:35-04:00",
+        "latest_version": "0.8.0",
+        "latest_md5": "1a6cc492b8003baeac68ab16d21958d9",
+        "latest_sha256": "094436b6389e35bfa80a29ae12e7917d21e816e21aef02a672a819963ea3f17a",
+        "latest_url": "zips/iptv-checker/iptv-checker-0.8.0.zip",
+        "min_dispatcharr_version": "v0.20.0"
+      },
+      {
         "slug": "stream-dripper",
         "name": "Stream Dripper",
         "description": "Automatically drops all active streams once per day at a configured time, with a manual drop-now button.",
@@ -62,5 +76,5 @@
       }
     ]
   },
-  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCadLVJgAKCRB+wDprTCI0\nztdoAP99FQ2512WpIdSQPBh//bwnofi/o9Ty1AnU3DAYeViS2QEAnqCmLCqYjHqV\nN3VlyZ5Shec8sID6bn3CyFe/OsLF/QE=\n=W0g4\n-----END PGP SIGNATURE-----"
+  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCadLVPgAKCRB+wDprTCI0\nzpJSAP9CLLyKcIbm/E7zolMfdvFZY/89ZGsMHpxv7oDy/1Pm9wEAy5JVDzkFmyN3\nzpYh2M1IW8CwO580lfErkA/wga4MxAc=\n=Hb4r\n-----END PGP SIGNATURE-----"
 }
