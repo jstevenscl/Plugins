@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T16:07:59Z",
+  "generated_at": "2026-04-12T19:22:54Z",
   "manifest": {
     "name": "Channel Mapparr",
     "description": "Standardizes broadcast (OTA) and premium/cable channel names using network data and channel lists. Supports M3U stream import, category organization, and fuzzy matching across 42K+ channels in 11 countries.",
@@ -33,9 +33,9 @@
       "checksum_md5": "10f435ba7aeb6cd57a19ed25a2a19a2a",
       "checksum_sha256": "90beb0b199f9f98b253b3024b7de683c1ba8ceee820072b63fd16b63bbb7bbca",
       "min_dispatcharr_version": "v0.20.0",
-      "latest_url": "zips/channel-mapparr/channel-mapparr-latest.zip",
-      "url": "zips/channel-mapparr/channel-mapparr-1.26.1001200.zip"
+      "url": "zips/channel-mapparr/channel-mapparr-1.26.1001200.zip",
+      "latest_url": "zips/channel-mapparr/channel-mapparr-latest.zip"
     }
   },
-  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCadkgXwAKCRB+wDprTCI0\nznSaAP9MCX+eLr4gI9/ziU+h72Vi3cAGOwmoSg3NARHy9j9QdgD8Dz5VaAoI1mYH\nyDv74nR4oiUPIbQR4VEYsMOe4kiBRg4=\n=N0a4\n-----END PGP SIGNATURE-----"
+  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCadvxDgAKCRB+wDprTCI0\nzm39AP9153KELR6aNvVoHtpTS1SY5sm10dEKUg0orh3VpPc5CAEA+mZ05sWN6gS/\ncD3Zz9qK7SW6CiqY6NmCqITsNtAKiAA=\n=8NTA\n-----END PGP SIGNATURE-----"
 }
