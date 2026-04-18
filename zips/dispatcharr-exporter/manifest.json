@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T19:12:52Z",
+  "generated_at": "2026-04-18T19:34:25Z",
   "manifest": {
     "name": "Dispatcharr Exporter",
     "description": "Expose Dispatcharr metrics in Prometheus exporter-compatible format for monitoring",
@@ -46,10 +46,10 @@
       "checksum_md5": "5b01ef6c427ee5110562934ff852e95f",
       "checksum_sha256": "9dd77824492e890f29a491203e3fc9130e4e65da7ff95265d684c27ac9114005",
       "min_dispatcharr_version": "v0.22.0",
-      "latest_url": "zips/dispatcharr-exporter/dispatcharr-exporter-latest.zip",
       "url": "zips/dispatcharr-exporter/dispatcharr-exporter-3.0.0.zip",
-      "size": 139
+      "size": 139,
+      "latest_url": "zips/dispatcharr-exporter/dispatcharr-exporter-latest.zip"
     }
   },
-  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCaePXtAAKCRB+wDprTCI0\nzvdMAQDIr/wHJquXO8xNP1HMDviM/rLcxjhcRkuWYxD7WdakYwD+MqOxLwJrC/fW\n+8800f/NeyKVhawKKz73inQTIB6Vtw8=\n=91Nj\n-----END PGP SIGNATURE-----"
+  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCaePcwgAKCRB+wDprTCI0\nzq26AP99BhsUpXKCx8snnZxbz65mi7X4x0T4uRRpjFrzDni4ZgEA21m7O+/JvVHQ\nH5Gt1ery9rZhCWyvNkW7PVEF1PbPNgo=\n=vPXt\n-----END PGP SIGNATURE-----"
 }
