@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T19:34:25Z",
+  "generated_at": "2026-04-18T22:09:11Z",
   "manifest": {
     "name": "Embyfin Stream Cleanup",
     "description": "Monitors Dispatcharr client activity and terminates idle Emby/Jellyfin connections",
@@ -46,10 +46,10 @@
       "checksum_md5": "000da3ce36a2d0026a1816092cb5cf0e",
       "checksum_sha256": "c36760c599599e76d510bb648e207244921ceb53fbf25b60fdfc865682c438ab",
       "min_dispatcharr_version": "v0.22.0",
-      "latest_url": "zips/embyfin-stream-cleanup/embyfin-stream-cleanup-latest.zip",
       "url": "zips/embyfin-stream-cleanup/embyfin-stream-cleanup-1.0.1.zip",
-      "size": 1565
+      "size": 1565,
+      "latest_url": "zips/embyfin-stream-cleanup/embyfin-stream-cleanup-latest.zip"
     }
   },
-  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCaePcwwAKCRB+wDprTCI0\nzpqJAP4yhUIxnp7vKNoBhPxWA3unc+bN2FmxURudT4XAR2fHaQEA6SQ9FeWZaT67\nNcr18/opJmmzT8tSdMLXL60wzEwnQQg=\n=ol6w\n-----END PGP SIGNATURE-----"
+  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCaeQBCAAKCRB+wDprTCI0\nzsvcAP0dVS1stDZhOAeji5XDFoZINQENBdrt9sGwwaClMCQxPgD/eV+pHTV6oPjj\n0GkVz8u2wKQLILuB3VikLMw0UPL1WA8=\n=3J5J\n-----END PGP SIGNATURE-----"
 }
