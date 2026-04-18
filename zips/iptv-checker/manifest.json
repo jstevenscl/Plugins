@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T16:37:34Z",
+  "generated_at": "2026-04-18T19:11:44Z",
   "manifest": {
     "name": "IPTV Checker",
     "description": "A Dispatcharr Plugin that goes through a playlist to check IPTV channels",
@@ -10,6 +10,18 @@
     "registry_url": "https://github.com/Dispatcharr/Plugins",
     "registry_name": "Dispatcharr/Plugins",
     "versions": [
+      {
+        "version": "1.26.1081815",
+        "commit_sha": "f7bd8203fb613889601839954dc14bef2db1c7aa",
+        "commit_sha_short": "f7bd820",
+        "build_timestamp": "2026-04-18T19:11:44Z",
+        "last_updated": "2026-04-18T15:11:34-04:00",
+        "checksum_md5": "004cdba61f06fb24e7cb201e3ddd5568",
+        "checksum_sha256": "31027fb0ca94093489d169e853a363f90f6f4cd1fddc50c9a48b45159d558df4",
+        "min_dispatcharr_version": "v0.20.0",
+        "url": "zips/iptv-checker/iptv-checker-1.26.1081815.zip",
+        "size": 343
+      },
       {
         "version": "0.8.0",
         "commit_sha": "33d258cc0bbd193c1192f0c0a364b66e689a7350",
@@ -23,20 +35,20 @@
         "size": 38
       }
     ],
-    "last_updated": "2026-04-05T17:33:35-04:00",
+    "last_updated": "2026-04-18T15:11:34-04:00",
     "latest": {
-      "version": "0.8.0",
-      "commit_sha": "33d258cc0bbd193c1192f0c0a364b66e689a7350",
-      "commit_sha_short": "33d258c",
-      "build_timestamp": "2026-04-05T21:33:48Z",
-      "last_updated": "2026-04-05T17:33:35-04:00",
-      "checksum_md5": "1a6cc492b8003baeac68ab16d21958d9",
-      "checksum_sha256": "094436b6389e35bfa80a29ae12e7917d21e816e21aef02a672a819963ea3f17a",
+      "version": "1.26.1081815",
+      "commit_sha": "f7bd8203fb613889601839954dc14bef2db1c7aa",
+      "commit_sha_short": "f7bd820",
+      "build_timestamp": "2026-04-18T19:11:44Z",
+      "last_updated": "2026-04-18T15:11:34-04:00",
+      "checksum_md5": "004cdba61f06fb24e7cb201e3ddd5568",
+      "checksum_sha256": "31027fb0ca94093489d169e853a363f90f6f4cd1fddc50c9a48b45159d558df4",
       "min_dispatcharr_version": "v0.20.0",
-      "url": "zips/iptv-checker/iptv-checker-0.8.0.zip",
-      "size": 38,
-      "latest_url": "zips/iptv-checker/iptv-checker-latest.zip"
+      "latest_url": "zips/iptv-checker/iptv-checker-latest.zip",
+      "url": "zips/iptv-checker/iptv-checker-1.26.1081815.zip",
+      "size": 343
     }
   },
-  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCaeOzUAAKCRB+wDprTCI0\nzvTWAPsHK07pSGZFmg28997RsfFLxMgkLaWjappOWw5+8iHo4wEAjSkmS+e713BB\nMrz5lYIFS0sRka0pJMadY/FnD4mP9wQ=\n=xR8N\n-----END PGP SIGNATURE-----"
+  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCaePXcQAKCRB+wDprTCI0\nziSpAP9tY72Z6D7UFQ+HtoD4DiDU1d6y2rcqgS2ry/Pfrvg9NQEA4uqu8zzkvYJ6\nlH782jOYon2XFDhnQzI/TJgIWVGFow0=\n=WTHr\n-----END PGP SIGNATURE-----"
 }
