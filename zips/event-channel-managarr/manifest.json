@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T16:37:34Z",
+  "generated_at": "2026-04-18T19:11:44Z",
   "manifest": {
     "name": "Event Channel Managarr",
     "description": "Automates channel visibility by hiding channels without events and showing those with events, based on EPG data and channel names. Optionally manages dummy EPG for channels without real EPG.",
@@ -45,10 +45,10 @@
       "checksum_md5": "c668ec0c368ed32e811f157d7e758a6e",
       "checksum_sha256": "7a82f15ec58038223586dca5ae00c99a88cfee6e17f186ed0d005e982df130ac",
       "min_dispatcharr_version": "v0.20.0",
-      "latest_url": "zips/event-channel-managarr/event-channel-managarr-latest.zip",
       "url": "zips/event-channel-managarr/event-channel-managarr-1.26.1081615.zip",
-      "size": 182
+      "size": 182,
+      "latest_url": "zips/event-channel-managarr/event-channel-managarr-latest.zip"
     }
   },
-  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCaeOzTwAKCRB+wDprTCI0\nzh81AP4/K5VVmDO51PJ6c2IOsbie8zVMLyI4SnlCpvjBglYFVAEAvntr8K8jndS9\nTbItJlofstnhn0PIwPGnF2d1mRz6aAk=\n=dLcd\n-----END PGP SIGNATURE-----"
+  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCaePXcAAKCRB+wDprTCI0\nzsDfAP4ycoxybKCzsEG6kSrGOauSD9AD7GEyjBXD1gMCirvGCwD+N2n2q3EipSee\nJs5ZNvT79ehRQkIrdO2NVkkQ+ZJLkw4=\n=vhUa\n-----END PGP SIGNATURE-----"
 }
