@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T19:11:44Z",
+  "generated_at": "2026-04-18T19:12:30Z",
   "manifest": {
     "registry_url": "https://github.com/Dispatcharr/Plugins",
     "registry_name": "Dispatcharr/Plugins",
@@ -49,6 +49,21 @@
         "latest_url": "zips/dispatchwrapparr/dispatchwrapparr-1.6.1.zip",
         "latest_size": 42,
         "min_dispatcharr_version": "v0.21.0"
+      },
+      {
+        "slug": "embyfin-stream-cleanup",
+        "name": "Embyfin Stream Cleanup",
+        "description": "Monitors Dispatcharr client activity and terminates idle Emby/Jellyfin connections",
+        "manifest_url": "zips/embyfin-stream-cleanup/manifest.json",
+        "author": "sethwv",
+        "license": "MIT",
+        "last_updated": "2026-04-18T15:12:16-04:00",
+        "latest_version": "1.0.0",
+        "latest_md5": "bf39bfed86009314dd91bc5138415dfc",
+        "latest_sha256": "6d4b1fa35595e8032ab46beb6e893e319bbd621cf73b0ac06caa96aacedeea70",
+        "latest_url": "zips/embyfin-stream-cleanup/embyfin-stream-cleanup-1.0.0.zip",
+        "latest_size": 31,
+        "min_dispatcharr_version": "v0.22.0"
       },
       {
         "slug": "epg-janitor",
@@ -141,5 +156,5 @@
       }
     ]
   },
-  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCaePXcgAKCRB+wDprTCI0\nzpRpAQCxsrd78V8hc6PpBgnjRhHg9am1Ibu6plQEqPqvs/bcUgEAhJ4yt4oFTL39\n6SgRh24spw1kuKyhi5CelXx4iqr5CgY=\n=LYVV\n-----END PGP SIGNATURE-----"
+  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCaePXoAAKCRB+wDprTCI0\nzqfdAQCavjDOmkN1nnIp+V/dDVffftN5tKaSrzCxMlEAerB9sAD+OVV/rmBfP3ei\nJM7sLC8ObucD6mkhgLq9bvVvXywiwQc=\n=QAuZ\n-----END PGP SIGNATURE-----"
 }
