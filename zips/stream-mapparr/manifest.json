@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T22:09:11Z",
+  "generated_at": "2026-04-19T11:01:53Z",
   "manifest": {
     "name": "Stream-Mapparr",
     "description": "Automatically add matching streams to channels based on name similarity and quality precedence. Supports unlimited stream matching, channel visibility management, and CSV export cleanup.",
@@ -45,10 +45,10 @@
       "checksum_md5": "f86b589e4c80bf08a75bed8987ce9a6c",
       "checksum_sha256": "bf65e3f1051cdd25f219e4e42e5d890c805c8ea17f9787a79d7e6ef2a966738e",
       "min_dispatcharr_version": "v0.20.0",
-      "latest_url": "zips/stream-mapparr/stream-mapparr-latest.zip",
       "url": "zips/stream-mapparr/stream-mapparr-1.26.1082140.zip",
-      "size": 391
+      "size": 391,
+      "latest_url": "zips/stream-mapparr/stream-mapparr-latest.zip"
     }
   },
-  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCaeQBCQAKCRB+wDprTCI0\nzv1fAP0bb8t14kMamHg89+tPiqTfU9IldNNTspnou5uBJIeEKgEAmS0NHZ/2Wavb\n67CMx7bnzynfSN0cr5Yi0t4L1lLAxwk=\n=/frP\n-----END PGP SIGNATURE-----"
+  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCaeS2IgAKCRB+wDprTCI0\nzl2ZAQCU5QehG+SNMv/Ke/yYlFu4XRI62gbs0GQOXy6riYGblwEAi+m9BUzfAxgi\nnKjCw8OeIuomZsMuWe1t3/3lk92MqAQ=\n=CWnq\n-----END PGP SIGNATURE-----"
 }
