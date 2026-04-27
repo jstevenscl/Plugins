@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T22:09:11Z",
+  "generated_at": "2026-04-27T15:41:09Z",
   "manifest": {
     "name": "Embyfin Stream Cleanup",
     "description": "Monitors Dispatcharr client activity and terminates idle Emby/Jellyfin connections",
@@ -11,6 +11,18 @@
     "registry_url": "https://github.com/Dispatcharr/Plugins",
     "registry_name": "Dispatcharr/Plugins",
     "versions": [
+      {
+        "version": "1.1.0",
+        "commit_sha": "c3305c3d5afc9226577cb01f8fae58c9785338c0",
+        "commit_sha_short": "c3305c3",
+        "build_timestamp": "2026-04-27T15:41:09Z",
+        "last_updated": "2026-04-27T11:40:56-04:00",
+        "checksum_md5": "56757faccd9078f600df8010c877248b",
+        "checksum_sha256": "c348327c1a17080481d4c3307802a67b2edb918e8b00f0e52ef8baf5102c1d5c",
+        "min_dispatcharr_version": "v0.22.0",
+        "url": "zips/embyfin-stream-cleanup/embyfin-stream-cleanup-1.1.0.zip",
+        "size": 1565
+      },
       {
         "version": "1.0.1",
         "commit_sha": "ede9f2ea1412434bf69c6e5e114347a6fdd7e140",
@@ -36,20 +48,20 @@
         "size": 31
       }
     ],
-    "last_updated": "2026-04-18T15:34:12-04:00",
+    "last_updated": "2026-04-27T11:40:56-04:00",
     "latest": {
-      "version": "1.0.1",
-      "commit_sha": "ede9f2ea1412434bf69c6e5e114347a6fdd7e140",
-      "commit_sha_short": "ede9f2e",
-      "build_timestamp": "2026-04-18T19:34:25Z",
-      "last_updated": "2026-04-18T15:34:12-04:00",
-      "checksum_md5": "000da3ce36a2d0026a1816092cb5cf0e",
-      "checksum_sha256": "c36760c599599e76d510bb648e207244921ceb53fbf25b60fdfc865682c438ab",
+      "version": "1.1.0",
+      "commit_sha": "c3305c3d5afc9226577cb01f8fae58c9785338c0",
+      "commit_sha_short": "c3305c3",
+      "build_timestamp": "2026-04-27T15:41:09Z",
+      "last_updated": "2026-04-27T11:40:56-04:00",
+      "checksum_md5": "56757faccd9078f600df8010c877248b",
+      "checksum_sha256": "c348327c1a17080481d4c3307802a67b2edb918e8b00f0e52ef8baf5102c1d5c",
       "min_dispatcharr_version": "v0.22.0",
-      "url": "zips/embyfin-stream-cleanup/embyfin-stream-cleanup-1.0.1.zip",
-      "size": 1565,
-      "latest_url": "zips/embyfin-stream-cleanup/embyfin-stream-cleanup-latest.zip"
+      "latest_url": "zips/embyfin-stream-cleanup/embyfin-stream-cleanup-latest.zip",
+      "url": "zips/embyfin-stream-cleanup/embyfin-stream-cleanup-1.1.0.zip",
+      "size": 1565
     }
   },
-  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCaeQBCAAKCRB+wDprTCI0\nzsvcAP0dVS1stDZhOAeji5XDFoZINQENBdrt9sGwwaClMCQxPgD/eV+pHTV6oPjj\n0GkVz8u2wKQLILuB3VikLMw0UPL1WA8=\n=3J5J\n-----END PGP SIGNATURE-----"
+  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCae+DlgAKCRB+wDprTCI0\nzn17AP9pWucQk78eQJmjAFclH1giGAYbMmy9TjPO/h+6n5+cAAEAsefk568hcXrN\n2tpWAQ0QKSWuNKOmoxHlviYHMBhaPA0=\n=7Vj7\n-----END PGP SIGNATURE-----"
 }
