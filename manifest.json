@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T17:57:46Z",
+  "generated_at": "2026-05-02T22:55:51Z",
   "manifest": {
     "registry_url": "https://github.com/Dispatcharr/Plugins",
     "registry_name": "Dispatcharr/Plugins",
@@ -153,8 +153,23 @@
         "latest_url": "zips/stream-mapparr/stream-mapparr-1.26.1082140.zip",
         "latest_size": 391,
         "min_dispatcharr_version": "v0.20.0"
+      },
+      {
+        "slug": "youtubearr",
+        "name": "YouTubearr",
+        "description": "Zero-dependency YouTube livestream plugin with automatic monitoring and configurable numbering",
+        "manifest_url": "zips/youtubearr/manifest.json",
+        "author": "jeff-gooch",
+        "license": "Unlicense",
+        "last_updated": "2026-05-02T18:55:36-04:00",
+        "latest_version": "1.17.7",
+        "latest_md5": "b6880b3c69679cd108eadab0189bd884",
+        "latest_sha256": "47e205d2b88a6b4609493328eea4a7e517a55c6ab02788b31aac1c86640eaab8",
+        "latest_url": "zips/youtubearr/youtubearr-1.17.7.zip",
+        "latest_size": 5001,
+        "min_dispatcharr_version": "v0.20.0"
       }
     ]
   },
-  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCafY7HAAKCRB+wDprTCI0\nzjWPAQD/noz/g+VJqkdVU+nxlANdh5qr+5njPVrUzvjE5CgbawEArvDWuPdlx+5r\n2dqWYY2nR/qvnVG9BbPl5r4T5Dtcfws=\n=YHkQ\n-----END PGP SIGNATURE-----"
+  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCafaA+gAKCRB+wDprTCI0\nzmzRAP9ikGqymOkfrRWysmu+nHxxF5O9p3LFjzmcL6I4WZKv1QEAmuMEn3FHBv9W\nA+p1+vYWrFAlnt7fdhczbxNJQcD6vgk=\n=5nIL\n-----END PGP SIGNATURE-----"
 }
