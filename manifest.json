@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T17:03:48Z",
+  "generated_at": "2026-05-10T18:26:06Z",
   "manifest": {
     "registry_url": "https://github.com/Dispatcharr/Plugins",
     "registry_name": "Dispatcharr/Plugins",
@@ -57,12 +57,12 @@
         "manifest_url": "zips/embyfin-stream-cleanup/manifest.json",
         "author": "sethwv",
         "license": "MIT",
-        "last_updated": "2026-04-28T14:33:09-04:00",
-        "latest_version": "1.1.1",
-        "latest_md5": "91600ee7bd50ee34715eee4cfab52320",
-        "latest_sha256": "362c6c061bb016caaf756790d45b8aceecbff6201e6f1fb6df30d115608c797b",
-        "latest_url": "zips/embyfin-stream-cleanup/embyfin-stream-cleanup-1.1.1.zip",
-        "latest_size": 1566,
+        "last_updated": "2026-05-10T14:25:53-04:00",
+        "latest_version": "1.1.2",
+        "latest_md5": "b5c83e690b790616134e9d954fbd81ef",
+        "latest_sha256": "1af5193583bcb037c00012b157fb2c52c0c0462c9beca9da3f26c91033eec47a",
+        "latest_url": "zips/embyfin-stream-cleanup/embyfin-stream-cleanup-1.1.2.zip",
+        "latest_size": 1567,
         "min_dispatcharr_version": "v0.22.0"
       },
       {
@@ -171,5 +171,5 @@
       }
     ]
   },
-  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCaf9o9gAKCRB+wDprTCI0\nzi8AAPwOrN9KUUxWE2EaziJLRthujV1ygZUnffB2N5XSZHpoBQD/UtKsBPQ1Wv41\nPOjPRcb2qGfviyxkjO2DadBrnW02KAQ=\n=wP+3\n-----END PGP SIGNATURE-----"
+  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCagDNwAAKCRB+wDprTCI0\nzpiyAQDc2JBneXueSJ8jJPJjQgo+TOLaEdg/mqD12HqfrtXkdgD/U2pwZ8EwGhG7\nSUoKvhStdKJNBsEDrAYfMfbLT62JKwI=\n=jdOh\n-----END PGP SIGNATURE-----"
 }
