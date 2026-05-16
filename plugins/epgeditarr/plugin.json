@@ -1,0 +1,11 @@
+{
+  "name": "EPGeditARR",
+  "version": "0.1.7",
+  "description": "Transform and clean your EPG data using regex and find/replace rules. Creates virtual copies of your sources — originals are never touched. Fills placeholder schedules for channels with no EPG, and sorts SiriusXM channels into official lineup order with automatic seasonal channel handling.",
+  "author": "jstevenscl",
+  "license": "MIT",
+  "repo_url": "https://github.com/jstevenscl/epgeditarr",
+  "help_url": "https://jstevenscl.github.io/epgeditarr/designer.html",
+  "source_type": "external",
+  "source_url": "https://github.com/jstevenscl/epgeditarr/releases/download/v{version}/epgeditarr-v{version}.zip"
+}
