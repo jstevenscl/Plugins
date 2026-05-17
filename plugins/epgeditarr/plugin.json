@@ -1,6 +1,6 @@
 {
   "name": "EPGeditARR",
-  "version": "0.1.7",
+  "version": "0.2.01",
   "description": "Transform and clean your EPG data using regex and find/replace rules. Creates virtual copies of your sources — originals are never touched. Fills placeholder schedules for channels with no EPG, and sorts SiriusXM channels into official lineup order with automatic seasonal channel handling.",
   "author": "jstevenscl",
   "license": "MIT",
