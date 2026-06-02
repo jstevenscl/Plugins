@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T17:13:29Z",
+  "generated_at": "2026-06-02T05:30:40Z",
   "manifest": {
     "slug": "embyfin-stream-cleanup",
     "name": "Embyfin Stream Cleanup",
@@ -8,8 +8,8 @@
     "license": "MIT",
     "repo_url": "https://github.com/swvn-dispatch/embyfin-stream-cleanup",
     "discord_thread": "https://discord.com/channels/1340492560220684331/1491487318832447668",
-    "registry_url": "https://github.com/Dispatcharr/Plugins",
-    "registry_name": "Dispatcharr/Plugins",
+    "registry_url": "https://github.com/jstevenscl/Plugins",
+    "registry_name": "jstevenscl/Plugins",
     "last_updated": "2026-05-15T13:13:11-04:00",
     "latest": {
       "version": "1.2.0",
@@ -98,6 +98,5 @@
         "size": 31
       }
     ]
-  },
-  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCagdUOgAKCRB+wDprTCI0\nzprJAP0QgKdSgGpdRVHzi/auMoKxQYHO2PNCw4ujpjWAFPiieAEA15SiY+1NZGB1\nDAc9gn/kRpp6wn8qd8A8kHNPyhOKXAM=\n=aGxS\n-----END PGP SIGNATURE-----"
+  }
 }
