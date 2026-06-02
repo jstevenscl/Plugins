@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T19:55:52Z",
+  "generated_at": "2026-06-02T05:30:40Z",
   "manifest": {
     "slug": "stream-mapparr",
     "name": "Stream-Mapparr",
@@ -7,8 +7,8 @@
     "author": "PiratesIRC",
     "license": "MIT",
     "repo_url": "https://github.com/PiratesIRC/Stream-Mapparr",
-    "registry_url": "https://github.com/Dispatcharr/Plugins",
-    "registry_name": "Dispatcharr/Plugins",
+    "registry_url": "https://github.com/jstevenscl/Plugins",
+    "registry_name": "jstevenscl/Plugins",
     "last_updated": "2026-04-18T18:09:01-04:00",
     "latest": {
       "version": "1.26.1082140",
@@ -49,6 +49,5 @@
         "size": 319
       }
     ]
-  },
-  "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQRGqTBWjg+5yoNM1/h+wDprTCI0zgUCafJiSwAKCRB+wDprTCI0\nzsQGAQCL/xm96j+ItxfGL8OyKr/EaG70hv1Q1NfTyINxuqEL2QEAvXq87AwTJQPp\nH/hrNLa/ophRXBPu7RornI3PdW/7jgU=\n=w9FO\n-----END PGP SIGNATURE-----"
+  }
 }

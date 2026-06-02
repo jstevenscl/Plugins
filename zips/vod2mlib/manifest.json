@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-06-02T05:30:40Z",
+  "manifest": {
+    "slug": "vod2mlib",
+    "name": "VOD to Media Library",
+    "description": "Generate .strm files (with optional NFO metadata) from your Dispatcharr VOD catalogue so Jellyfin / Emby / Kodi / ChannelsDVR can index your movies and series. Adds a cron-driven auto-rescan that picks up newly-added episodes nightly. Optional category-nested folder layout for genre-organised libraries.",
+    "author": "R3XCHRIS",
+    "license": "MIT",
+    "source_type": "external",
+    "source_url": "https://github.com/R3XCHRIS/VOD2MLIB/releases/download/v{version}/plugin-vod2mlib-v{version}.zip",
+    "repo_url": "https://github.com/R3XCHRIS/VOD2MLIB",
+    "registry_url": "https://github.com/jstevenscl/Plugins",
+    "registry_name": "jstevenscl/Plugins",
+    "last_updated": "2026-06-02T05:30:40Z",
+    "latest": {
+      "version": "1.15.0",
+      "build_timestamp": "2026-06-02T05:30:40Z",
+      "last_updated": "2026-06-02T05:30:40Z",
+      "checksum_md5": "7843c83b3e8be29244cca1436e0f6e3a",
+      "checksum_sha256": "c4b481de517a71dcb0a17102ab3f37eec7587e991cf1d195a973f3e55ffb6ede",
+      "min_dispatcharr_version": "v0.24.0",
+      "source_url": "https://github.com/R3XCHRIS/VOD2MLIB/releases/download/v1.15.0/plugin-vod2mlib-v1.15.0.zip",
+      "latest_url": "zips/vod2mlib/vod2mlib-latest.zip",
+      "url": "zips/vod2mlib/vod2mlib-1.15.0.zip",
+      "size": 145
+    },
+    "versions": [
+      {
+        "version": "1.15.0",
+        "build_timestamp": "2026-06-02T05:30:40Z",
+        "last_updated": "2026-06-02T05:30:40Z",
+        "checksum_md5": "7843c83b3e8be29244cca1436e0f6e3a",
+        "checksum_sha256": "c4b481de517a71dcb0a17102ab3f37eec7587e991cf1d195a973f3e55ffb6ede",
+        "min_dispatcharr_version": "v0.24.0",
+        "source_url": "https://github.com/R3XCHRIS/VOD2MLIB/releases/download/v1.15.0/plugin-vod2mlib-v1.15.0.zip",
+        "url": "zips/vod2mlib/vod2mlib-1.15.0.zip",
+        "size": 145
+      }
+    ]
+  }
+}
