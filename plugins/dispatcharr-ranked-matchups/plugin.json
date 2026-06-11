@@ -1,0 +1,11 @@
+{
+  "name": "Ranked Matchups (Top Games)",
+  "version": "1.2.0",
+  "description": "Cross-sport interestingness curator. Pulls upcoming games per enabled sport, scores them on interestingness, matches to Dispatcharr channels via EPG, and renames+groups them into a Top Matchups channel profile so your guide shows only the games worth watching.",
+  "author": "Jacob-Lasky",
+  "license": "MIT",
+  "repo_url": "https://github.com/Jacob-Lasky/dispatcharr_ranked_matchups",
+  "help_url": "https://github.com/Jacob-Lasky/dispatcharr_ranked_matchups#readme",
+  "source_type": "external",
+  "source_url": "https://github.com/Jacob-Lasky/dispatcharr_ranked_matchups/releases/download/v{version}/plugin.zip"
+}
